@@ -11,6 +11,7 @@ class EmptyFileException extends Exception {
     }
 }
 
+//Declaring the class
 public class Main {
     public static void main(String[] args) {
         String fileName = "src/Biography.txt"; // Change this to the name of your file
